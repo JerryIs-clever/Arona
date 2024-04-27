@@ -1,6 +1,6 @@
 {
     "profile": {
-        "website_name": "My Personal website",
+        "website_name": "Hey jerry",
         "subtitle": "You can now configure your website",
         "name": "You done it!",
         "icon": {
@@ -80,6 +80,14 @@
                 "iconType": "fa-solid",
                 "iconName": "fa-shield-halved",
                 "duration": 5000,
+                "scroll": true
+            },
+            "alert_2":{
+                "content": "qwertyuiopasdfghjklzxcvbnm",
+                "iconType": "fa-solid",
+                "iconName": "fa-shield-halved",
+                "duration": 9000,
+                "color": "#ff1d1d",
                 "scroll": true
             }
         }
